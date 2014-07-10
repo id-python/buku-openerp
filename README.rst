@@ -29,7 +29,7 @@ kecuali untuk contoh kasus.
 Tim Buku (urut abjad)
 ------------------------------------------------------------
 
-Penulis:
+Penulis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Noprianto (https://github.com/nopri)
   (Dari draft daftar isi: 1, 2, 3, 4, 5 (sebagian), 8)
@@ -44,7 +44,7 @@ Penulis:
   (Dari draft daftar isi: )
 
 
-Kesan Singkat:
+Kesan Singkat
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Ismail Sunni
 
@@ -55,11 +55,11 @@ Kesan Singkat:
 - Zaki Akhmad (https://github.com/za)
 
 
-Perancang Cover:
+Perancang Cover
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -
 
-Layout:
+Layout
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - 
 
@@ -100,27 +100,8 @@ Model Kontribusi, Royalti, Referensi
 
 Jadwal (UTC+7)
 ------------------------------------------------------------
-- [2014-07-04] Usulan penulisan buku disampaikan ke mailing list 
-  id-python: https://groups.yahoo.com/neo/groups/id-python/conversations/topics/7544
-  
-- [2014-07-07] Daftar Isi (Draft) tersedia.
-
-- [2014-07-10] Batas akhir pendaftaran tim penulis.
-
-- [2014-07-17] Buku secara resmi mulai ditulis.
-
-- [2014-07-24] Laporan minggu pertama.
-
-- [2014-07-31] Laporan minggu kedua.
-
-- [2014-08-08] Laporan minggu ketiga
-  
-- [2014-08-14] Buku selesai (konten buku dapat diserahkan 
-  kepada penulis kesan singkat).
-
-- [2014-08-17] Cover buku depan dan belakang selesai.
-
-- [2014-08-18] Konten buku diserahkan kepada penerbit.
+Selengkapnya tentang jadwal bisa dibaca di:
+https://github.com/id-python/buku-openerp/issues/milestones
 
 
 Daftar Isi (Draft) 
