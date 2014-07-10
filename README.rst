@@ -28,30 +28,29 @@ kecuali untuk contoh kasus.
 
 Tim Buku (urut abjad)
 ------------------------------------------------------------
-Catatan: daftar ini belum fix
 
 Penulis:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Noprianto (https://github.com/nopri)
   (Dari draft daftar isi: 1, 2, 3, 4, 5 (sebagian), 8)
 
-- Setiaji Kurniawan
+- Setiaji Kurniawan (https://github.com/setiaji)
+  (Dari draft daftar isi: )
+
+- Whisnu Budhysantika
   (Dari draft daftar isi: )
 
 - Widoyo 
   (Dari draft daftar isi: )
 
 
-Peer Review:
+Kesan Singkat:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Ismail Sunni
 
-- Zaki Akhmad (https://github.com/za)
+- Owo Sugiana (https://github.com/sugiana)
 
-
-Kesan Singkat:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Owo Sugiana
+- Steven Haryanto (https://github.com/sharyanto)
 
 - Zaki Akhmad (https://github.com/za)
 
@@ -114,8 +113,7 @@ Jadwal (UTC+7)
 
 - [2014-07-31] Laporan minggu kedua.
 
-- [2014-08-08] Laporan minggu ketiga (konten buku dapat
-  diserahkan kepada peer reviewer; revisi dilakukan).
+- [2014-08-08] Laporan minggu ketiga
   
 - [2014-08-14] Buku selesai (konten buku dapat diserahkan 
   kepada penulis kesan singkat).
