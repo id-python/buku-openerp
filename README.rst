@@ -23,7 +23,7 @@ Versi OpenERP
 Cara Baca 
 ------------------------------------------------------------
 Buku ini diharapkan untuk dapat dibaca secara berurutan, 
-kecuali untuk contoh kasus. 
+kecuali untuk contoh kasus dan tip/trik (3 bab terakhir). 
 
 
 Tim Buku (urut abjad)
@@ -31,22 +31,26 @@ Tim Buku (urut abjad)
 
 Penulis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Catatan: Satu bab bisa ditulis oleh lebih dari satu penulis. 
+Seiring proses penulisan buku, daftar kontribusi ini mungkin
+bisa berubah. 
+
 - Noprianto (https://github.com/nopri)
-  (Dari draft daftar isi: 1, 2, 3, 4, 5 (sebagian), 8)
+  (Dari draft daftar isi: 3, 4, 5, 7)
 
 - Setiaji Kurniawan (https://github.com/setiaji)
-  (Dari draft daftar isi: )
+  (Dari draft daftar isi: 5, 6, 8, 9)
 
 - Whisnu Budhysantika
-  (Dari draft daftar isi: )
+  (Dari draft daftar isi: 1, 2, 3, 7)
 
-- Widoyo 
-  (Dari draft daftar isi: )
+- Widoyo (https://github.com/widoyo)
+  (Dari draft daftar isi: 6, 8, 9, 10)
 
 
 Kesan Singkat
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Ismail Sunni
+- Ismail Sunni (http://github.com/ismailsunni)
 
 - Owo Sugiana (https://github.com/sugiana)
 
@@ -55,13 +59,11 @@ Kesan Singkat
 - Zaki Akhmad (https://github.com/za)
 
 
-Perancang Cover
+Pendukung Penerbitan
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
--
-
-Layout
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- 
+Tim pendukung penerbitan, apabila ada, akan dicantumkan 
+dalam buku. Buku ini membutuhkan bantuan layout, perancang
+cover dan ilustrasi. 
 
 
 Penerbit
@@ -240,22 +242,12 @@ Daftar Isi (Draft)
    - ...
    
 
-6. Migrasi data
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   Pembaca mungkin perlu melakukan migrasi data
-   dari sistem sebelumnya. Kita bisa membahas strategi
-   yang bisa dilakukan di sini (yang umum di dunia
-   OpenERP).
-   
-   Kalau ada pengalaman dari penulis, maka mungkin
-   bisa berguna untuk dikemukakan.
-
-7. Workflow
+6. Workflow
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    Membahas workflow, aktifitas dan transisi. Seperti
    biasa, kita bahas juga beberapa contoh. 
    
-8. Laporan 
+7. Laporan 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    Bab ini membahas contoh pembuatan laporan, mulai dari
    yang sangat sederhana, melekat pada model, sampai
@@ -274,9 +266,19 @@ Daftar Isi (Draft)
    - Output lain
 
 
-9. Contoh kasus 1
+8. Contoh kasus 1
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-10.Contoh kasus 2
+9. Contoh kasus 2
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+10.Tip dan Trik
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   Berisikan koleksi tip dan trik dalam pengembangan solusi 
+   berbasis OpenERP. 
+   
+   Migrasi data, yang sebelumnya direncanakan sebagai bab
+   tersendiri, akan menjadi bagian dari bab ini. 
+      
+   Kalau ada pengalaman dari penulis, maka mungkin
+   bisa berguna untuk dikemukakan.
