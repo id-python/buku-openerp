@@ -36,16 +36,16 @@ Seiring proses penulisan buku, daftar kontribusi ini mungkin
 bisa berubah. 
 
 - Noprianto (https://github.com/nopri)
-  (Dari draft daftar isi: 3, 4, 5, 7)
+  (Dari draft daftar isi: 3, 4, 5, 7, 10)
 
 - Setiaji Kurniawan (https://github.com/setiaji)
-  (Dari draft daftar isi: 5, 6, 8, 9)
+  (Dari draft daftar isi: 5, 6, 8, 9, 10)
 
-- Whisnu Budhysantika
-  (Dari draft daftar isi: 1, 2, 3, 7)
+- Whisnu Budhysantika (https://github.com/whisnu)
+  (Dari draft daftar isi: 1, 2, 3, 7, 10)
 
 - Widoyo (https://github.com/widoyo)
-  (Dari draft daftar isi: 6, 8, 9, 10)
+  (Dari draft daftar isi: 8)
 
 
 Kesan Singkat
