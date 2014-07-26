@@ -65,6 +65,8 @@ Tim pendukung penerbitan, apabila ada, akan dicantumkan
 dalam buku. Buku ini membutuhkan bantuan layout, perancang
 cover dan ilustrasi. 
 
+- Syaeful Bahri (https://github.com/passionfactory)
+
 
 Penerbit
 ------------------------------------------------------------
@@ -104,6 +106,20 @@ Jadwal (UTC+7)
 ------------------------------------------------------------
 Selengkapnya tentang jadwal bisa dibaca di:
 https://github.com/id-python/buku-openerp/issues/milestones
+
+
+Laporan
+------------------------------------------------------------
+- Laporan minggu pertama, dijadwalkan 24 Juli, dilaporkan
+  terlambat 2 hari (26 Juli):
+  
+  - Secara umum, penulisan buku baru berjalan sekitar/kurang
+    dari 10 persen. Dua dari tim penulis, yaitu Noprianto 
+    dan Widoyo masih 0 persen. 
+    
+  - Dari dua penerbit yang didekati, satu menolak dan satu
+    lagi belum ada keputusan. 
+  
 
 
 Daftar Isi (Draft) 
