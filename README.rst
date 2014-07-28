@@ -36,7 +36,7 @@ Seiring proses penulisan buku, daftar kontribusi ini mungkin
 bisa berubah. 
 
 - Noprianto (https://github.com/nopri)
-  (Dari draft daftar isi: 3, 4, 5, 7, 10)
+  (Dari draft daftar isi: 3, 4, 5, 7, 10, 11, 12)
 
 - Setiaji Kurniawan (https://github.com/setiaji)
   (Dari draft daftar isi: 5, 6, 8, 9, 10)
@@ -298,3 +298,9 @@ Daftar Isi (Draft)
       
    Kalau ada pengalaman dari penulis, maka mungkin
    bisa berguna untuk dikemukakan.
+
+11. Web Service dengan XML-RPC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+12. Dasar-dasar Python
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
