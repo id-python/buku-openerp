@@ -124,6 +124,10 @@ Laporan
 
 Daftar Isi (Draft) 
 ------------------------------------------------------------
+Catatan: hanya menampilkan satu level dalam bab. Juga dapat
+dianggap sebagai indikasi seberapa jauh sebuah bab telah 
+ditulis. 
+
 
 1. Memulai OpenERP
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -304,3 +308,28 @@ Daftar Isi (Draft)
 
 12. Dasar-dasar Python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   
+   - Penulisan source code
+   
+   - Sekilas tentang Python
+   
+   - Interpreter Python (interaktif)
+   
+   - Script Python
+   
+   - Tipe builtin, collection dan operator
+   
+   - Kondisi
+   
+   - Perulangan
+   
+   - Fungsi
+   
+   - Class
+   
+   - Modul-modul
+   
+   - Exception
+   
+   - File
+
