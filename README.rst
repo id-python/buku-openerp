@@ -23,7 +23,9 @@ Versi OpenERP
 Cara Baca 
 ------------------------------------------------------------
 Buku ini diharapkan untuk dapat dibaca secara berurutan, 
-kecuali untuk contoh kasus dan tip/trik (3 bab terakhir). 
+kecuali untuk contoh kasus 1, contoh kasus 2, tip dan trik, 
+web service dengan XML-RPC dan dasar-dasar Python
+(5 bab terakhir).
 
 
 Tim Buku (urut abjad)
@@ -305,6 +307,29 @@ ditulis.
 
 11. Web Service dengan XML-RPC
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   - ERP dan sistem berjalan
+   
+   - Membangun frontend sendiri
+   
+   - XML-RPC dan Python
+   
+   - Pustaka oerpapi
+   
+   - Program: pilih dan login ke database
+   
+   - Program: buat, update, baca, hapus
+   
+   - Program: melakukan pencarian
+   
+   - Program: laporan
+   
+   - Program: buat, ganti nama, kopi, hapus database
+   
+   - Program: dump dan restore database
+   
+   - Menggunakan xmlrpclib
+
 
 12. Dasar-dasar Python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
