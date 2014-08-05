@@ -122,6 +122,13 @@ Laporan
   - Dari dua penerbit yang didekati, satu menolak dan satu
     lagi belum ada keputusan. 
   
+- Laporan minggu kedua, dijadwalkan 31 Juli, dilaporkan
+  terlambat 5 hari (5 Agustus):
+  
+  - Secara umum, penulisan buku telah berjalan sekitar
+    22,5 persen. 
+    
+  - Masih belum ada keputusan dari penerbit kedua.
 
 
 Daftar Isi (Draft) 
