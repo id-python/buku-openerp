@@ -236,25 +236,44 @@ ditulis.
          modul.
 
 
-4. ORM 
+4. Model pada OpenERP 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   Membahas komponen kunci OpenERP. Di sini, kita
-   akan membahas detil atribut, tipe field, method
-   dan lainnya. 
-   
-   Contoh pada Bab 3 akan dikembangkan lebih lanjut.
-   
-   Contoh-contoh yang dibahas di sini harus
-   representatif sehingga pembaca dapat mengembangkan 
-   lebih lanjut.
 
-   - Atribut 
+   - Hirarki class
     
-   - Tipe field
+   - osv.Model dan osv.osv
    
-   - Method 
+   - Atribut
    
-   - Tips: Override method
+   - Atribut: _columns
+   
+   - Atribut: _constraints
+   
+   - Model, tabel database dan field
+   
+   - Method
+   
+   - Mengakses OpenERP dari prompt Python
+   
+   - Method: search
+   
+   - Method: read
+   
+   - Method: write
+   
+   - Method: create
+   
+   - Method: unlink
+   
+   - Program 4-1: menambah field
+   
+   - Program 4-2: readonly dan nilai default
+   
+   - Program 4-3: constraint
+   
+   - Program 4-4: field functional
+   
+   - Program 4-5: method create/write
    
    
 5. View
