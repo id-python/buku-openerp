@@ -322,14 +322,25 @@ ditulis.
 
 10.Tip dan Trik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   Berisikan koleksi tip dan trik dalam pengembangan solusi 
-   berbasis OpenERP. 
+
+   - Pelajarilah source code OpenERP
    
-   Migrasi data, yang sebelumnya direncanakan sebagai bab
-   tersendiri, akan menjadi bagian dari bab ini. 
-      
-   Kalau ada pengalaman dari penulis, maka mungkin
-   bisa berguna untuk dikemukakan.
+   - Generate file konfigurasi
+   
+   - Lebih dari satu lokasi addons
+   
+   - Pustaka notation dan notasi prefix/postfix
+   
+   - Lisensi pada modul OpenERP
+   
+   - Perubahan pada file python dalam modul
+   
+   - Menampilkan pesan kesalahan
+   
+   - ...
+   
+   - ...
+   
 
 11. Web Service dengan XML-RPC
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
