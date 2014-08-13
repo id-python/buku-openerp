@@ -129,6 +129,17 @@ Laporan
     22,5 persen. 
     
   - Masih belum ada keputusan dari penerbit kedua.
+  
+- Laporan minggu ketiga, dijadwalkan 8 Agustus, dilaporkan
+  terlambat 5 hari (13 Agustus):
+  
+  - Secara umum, penulisan buku telah berjalan sekitar
+    28 persen. Ada kemungkinan buku akan terlambat 
+    selesai 1 minggu.
+    
+  - Penerbit kedua tampaknya kurang antusias. Usaha akan
+    terus dilakukan untuk pendekatan ke penerbit, sambil
+    tim buku memikirkan cara publikasi lainnya. 
 
 
 Daftar Isi (Draft) 
