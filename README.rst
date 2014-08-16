@@ -33,18 +33,18 @@ Tim Buku (urut abjad)
 
 Penulis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Catatan: Satu bab bisa ditulis oleh lebih dari satu penulis. 
+Catatan: Satu bab ditulis oleh satu penulis. 
 Seiring proses penulisan buku, daftar kontribusi ini mungkin
 bisa berubah. 
 
 - Noprianto (https://github.com/nopri)
-  (Dari draft daftar isi: 3, 4, 5, 7, 10, 11, 12)
+  (Dari draft daftar isi: 4, 5, 7, 10, 11, 12)
 
 - Setiaji Kurniawan (https://github.com/setiaji)
-  (Dari draft daftar isi: 5, 6, 8, 9, 10)
+  (Dari draft daftar isi: 6, 9)
 
 - Whisnu Budhysantika (https://github.com/whisnu)
-  (Dari draft daftar isi: 1, 2, 3, 7, 10)
+  (Dari draft daftar isi: 1, 2, 3)
 
 - Widoyo (https://github.com/widoyo)
   (Dari draft daftar isi: 8)
@@ -101,8 +101,6 @@ Model Kontribusi, Royalti, Referensi
 - Untuk referensi, penulis diharapkan membaca 
   memento teknis OpenERP dan dokumentasi resmi OpenERP. 
   
-- Silahkan merevisi Daftar Isi (Draft) di bawah.
-
 
 Jadwal (UTC+7)
 ------------------------------------------------------------
@@ -142,11 +140,9 @@ Laporan
     tim buku memikirkan cara publikasi lainnya. 
 
 
-Daftar Isi (Draft) 
+Daftar Isi
 ------------------------------------------------------------
-Catatan: hanya menampilkan satu level dalam bab. Juga dapat
-dianggap sebagai indikasi seberapa jauh sebuah bab telah 
-ditulis. 
+Catatan: hanya menampilkan satu level dalam bab. 
 
 
 1. Memulai OpenERP
@@ -252,7 +248,7 @@ ditulis.
 
    - Hirarki class
     
-   - osv.Model dan osv.osv
+   - orm.Model, osv.Model dan osv.osv
    
    - Atribut
    
@@ -264,7 +260,7 @@ ditulis.
    
    - Method
    
-   - Mengakses OpenERP dari prompt Python
+   - Mengakses OpenERP tanpa server dijalankan
    
    - Method: search
    
@@ -348,10 +344,8 @@ ditulis.
    
    - Menampilkan pesan kesalahan
    
-   - ...
-   
-   - ...
-   
+   - Format tanggal/waktu
+      
 
 11. Web Service dengan XML-RPC
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
