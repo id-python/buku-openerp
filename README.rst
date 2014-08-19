@@ -1,4 +1,4 @@
-Buku OpenERP (pengembangan)
+Dasar-dasar OpenERP: sisi teknikal dan contoh kasus
 ============================================================
 
 .. contents:: 
@@ -283,18 +283,30 @@ Catatan: hanya menampilkan satu level dalam bab.
    - Program 4-5: method create/write
    
    
-5. View
+5. Dasar-dasar view
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   Membahas lebih lanjut tentang view pada OpenERP, 
-   termasuk dynamic view.
+
+   - Kerangka
    
-   - Form
+   - Field pada model
    
-   - Tree
+   - Inheritance pada view
    
-   - Dynamic view
+   - Form: mengatur ulang posisi field
    
-   - ...
+   - Form: menambah field
+   
+   - Form: notebook dan group
+   
+   - Form: attrs dan atribut lain
+   
+   - Form: on change
+   
+   - Form: on change (2)
+   
+   - Tree: tambah/hapus field
+   
+   - Menuitem dan editable tree
    
 
 6. Workflow
