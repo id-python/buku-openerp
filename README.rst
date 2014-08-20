@@ -314,23 +314,20 @@ Catatan: hanya menampilkan satu level dalam bab.
    Membahas workflow, aktifitas dan transisi. Seperti
    biasa, kita bahas juga beberapa contoh. 
    
-7. Laporan 
+7. Dasar-dasar Report 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   Bab ini membahas contoh pembuatan laporan, mulai dari
-   yang sangat sederhana, melekat pada model, sampai
-   pada yang lebih kompleks dan melibatkan wizard. 
+
+   - Definisi
    
-   Kita akan membahas sebanyak mungkin contoh. 
+   - Report dengan RML
    
-   - Konsep
+   - Kerangka RML
    
-   - Laporan sederhana
+   - Report pada model
    
-   - Pengaturan header
+   - Custom parser
    
    - Wizard
-   
-   - Output lain
 
 
 8. Contoh kasus 1
