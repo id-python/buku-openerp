@@ -116,7 +116,7 @@ Laporan
     terus dilakukan untuk pendekatan ke penerbit, sambil
     tim buku memikirkan cara publikasi lainnya. 
 
-- Naskah buku telah selesai pada hari Kamis, 21 Juli 2014. 
+- Naskah buku telah selesai pada hari Kamis, 21 Agustus 2014. 
 
   - Karena salah satu penulis tidak dapat dihubungi selama
     hari-hari terakhir, dan belum pernah ada tulisan yang 
