@@ -20,34 +20,19 @@ Versi OpenERP
 - Kode lama (apabila ada) harus diuji terlebih dahulu.
 
 
-Cara Baca 
-------------------------------------------------------------
-Buku ini diharapkan untuk dapat dibaca secara berurutan, 
-kecuali untuk contoh kasus 1, contoh kasus 2, tip dan trik, 
-web service dengan XML-RPC dan dasar-dasar Python
-(5 bab terakhir).
-
-
 Tim Buku (urut abjad)
 ------------------------------------------------------------
 
 Penulis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Catatan: Satu bab ditulis oleh satu penulis. 
-Seiring proses penulisan buku, daftar kontribusi ini mungkin
-bisa berubah. 
-
 - Noprianto (https://github.com/nopri)
-  (Dari draft daftar isi: 4, 5, 7, 10, 11, 12)
-
-- Setiaji Kurniawan (https://github.com/setiaji)
-  (Dari draft daftar isi: 6, 9)
+  (Bab: 5, 6, 7, 8, 9, 10) (+Editor)
 
 - Whisnu Budhysantika (https://github.com/whisnu)
-  (Dari draft daftar isi: 1, 2, 3)
+  (Bab: 1, 2, 3)
 
 - Widoyo (https://github.com/widoyo)
-  (Dari draft daftar isi: 8)
+  (Bab: 4)
 
 
 Kesan Singkat
@@ -61,24 +46,16 @@ Kesan Singkat
 - Zaki Akhmad (https://github.com/za)
 
 
-Pendukung Penerbitan
+Layout
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Tim pendukung penerbitan, apabila ada, akan dicantumkan 
-dalam buku. Buku ini membutuhkan bantuan layout, perancang
-cover dan ilustrasi. 
-
 - Syaeful Bahri (https://github.com/passionfactory)
 
 
 Penerbit
 ------------------------------------------------------------
-- Saat ini, buku ini masih belum memiliki penerbit. 
+- Materi buku akan tersedia bebas.
 
-- Pendekatan kepada penerbit akan dilakukan satu demi satu,
-  dalam waktu tertentu. Pindah ke calon penerbit lain 
-  apabila calon penerbit yang didekati telah menolak.
-  
-- Bantuan akan sangat diperlukan di sini. 
+- Buku akan dipublikasikan sendiri.
 
 
 Model Kontribusi, Royalti, Referensi
@@ -90,7 +67,7 @@ Model Kontribusi, Royalti, Referensi
   
 - Royalti buku sebesar 30% akan didonasikan kepada komunitas
   Python ID. Selebihnya, 70% akan dibagi rata sesuai jumlah
-  penulis. 
+  penulis. Ini dengan asumsi ada penghasilan dari buku.
 
 - Batas waktu bergabung sebagai penulis adalah Hari Kamis,
   10 Juli 2014 20:00 WIB.
@@ -139,69 +116,41 @@ Laporan
     terus dilakukan untuk pendekatan ke penerbit, sambil
     tim buku memikirkan cara publikasi lainnya. 
 
+- Naskah buku telah selesai pada hari Kamis, 21 Juli 2014. 
+
+  - Karena salah satu penulis tidak dapat dihubungi selama
+    hari-hari terakhir, dan belum pernah ada tulisan yang 
+    dikirimkan, maka isi buku terpaksa disesuaikan sehingga 
+    pembahasan tentang workflow dan contoh kasus 2 
+    tidak disertakan. Susunan Bab juga ikut berubah.
+    
+  - Buku akan melalui proses penyuntingan, sebelum diserahkan
+    ke penulis kesan singkat. 
+
 
 Daftar Isi
 ------------------------------------------------------------
-Catatan: hanya menampilkan satu level dalam bab. 
-
 
 1. Memulai OpenERP
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   Tujuan Bab ini adalah membahas proses instalasi sampai
-   OpenERP siap digunakan dan dikustomisasi. Bagi yang telah
-   terbiasa, bab ini bisa dilewatkan. 
 
    - Instalasi OpenERP
-     ::
-
-         Instalasi OpenERP dan paket sistem yang dibutuhkan 
-         untuk menjalankan OpenERP. Apabila dirasa penting,
-         mungkin kita bisa bahas untuk beberapa sistem operasi
-         populer (tidak hanya GNU/Linux).
    
    - Konfigurasi Database dan OpenERP
-     ::
-
-         Konfigurasi database server, termasuk pembuatan
-         user database. Membahas pula sekilas file konfigurasi
-         OpenERP. 
    
-   - Modul Sales Management dan data sample
-     ::
-     
-         OpenERP siap digunakan dengan modul sales management dan 
-         data sample. Kita gunakan Sales Management karena ini
-         cenderung lebih mudah dimengerti.
+   - Contoh modul dan data sample
 
 
 2. Dasar-dasar Kustomisasi 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   Tujuan Bab ini adalah membahas dasar-dasar kustomisasi 
-   OpenERP, dengan fokus kustomisasi TANPA pembuatan module
-   (hanya menurunkan lewat UI). Kita bahas juga apa 
-   kelebihan dan kekurangannya. 
    
    - Developer Mode 
-     ::
-
-         Memanfaatkan developer mode untuk lebih memudahkan 
-         mengerti/mengembangkan.
       
    - Technical Feature
-     ::
-
-         Kita perlu aktifkan fitur ini kepada user yang ingin
-         melakukan kustomisasi.
    
    - Menambah field
-     ::
-
-         Menambah field baru ke model.
    
    - Menampilkan field
-     ::
-     
-         Menampilkan field yang ada.
    
    - Menyembunyikan field dan mengatur posisi
 
@@ -210,40 +159,21 @@ Catatan: hanya menampilkan satu level dalam bab.
 
 3. Dasar Pengembangan Modul OpenERP
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   Sampai di sini, pembaca telah mengetahui bahwa mereka
-   memiliki kebutuhan untuk melakukan kustomisasi lewat
-   pengembangan modul. Dasar-dasar pengembangan modul
-   akan dibahas dan dijelaskan pada bab ini. 
-   
-   Apa yang telah dilakukan pada Bab 2 akan ditulis
-   ulang menggunakan modul pada Bab ini. 
-   
-   Pembaca diharapkan memiliki gambaran apa yang 
-   dilakukan. Detil akan dibahas pada bab lain. 
-   
-   Pembaca tahu bahwa hal tersebut bisa dilakukan, 
-   dan kita ingin membuatnya sesederhana mungkin. 
-   
-   - Sekilas Paket Python 
    
    - Lingkungan pengembangan OpenERP
    
    - Struktur modul
    
    - Komposisi modul OpenERP 
-     ::
-
-         Sekilas tentang business object, data, wizard, 
-         laporan, dll.
      
    - Contoh modul sederhana
-     ::
-     
-         Apa yang dilakukan pada Bab 2 dalam bentuk
-         modul.
 
 
-4. Model pada OpenERP 
+4. Contoh kasus
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+5. Model pada OpenERP 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
    - Hirarki class
@@ -272,18 +202,18 @@ Catatan: hanya menampilkan satu level dalam bab.
    
    - Method: unlink
    
-   - Program 4-1: menambah field
+   - Program: menambah field
    
-   - Program 4-2: readonly dan nilai default
+   - Program: readonly dan nilai default
    
-   - Program 4-3: constraint
+   - Program: constraint
    
-   - Program 4-4: field functional
+   - Program: field functional
    
-   - Program 4-5: method create/write
+   - Program: method create/write
    
    
-5. Dasar-dasar view
+6. Dasar-dasar view
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
    - Kerangka
@@ -308,11 +238,6 @@ Catatan: hanya menampilkan satu level dalam bab.
    
    - Menuitem dan editable tree
    
-
-6. Workflow
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   Membahas workflow, aktifitas dan transisi. Seperti
-   biasa, kita bahas juga beberapa contoh. 
    
 7. Dasar-dasar Report 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -330,13 +255,7 @@ Catatan: hanya menampilkan satu level dalam bab.
    - Wizard
 
 
-8. Contoh kasus 1
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-9. Contoh kasus 2
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-10.Tip dan Trik
+8.Tip dan Trik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
    - Pelajarilah source code OpenERP
@@ -356,7 +275,7 @@ Catatan: hanya menampilkan satu level dalam bab.
    - Format tanggal/waktu
       
 
-11. Web Service dengan XML-RPC
+9. Web Service dengan XML-RPC
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
    - ERP dan sistem berjalan
@@ -382,7 +301,7 @@ Catatan: hanya menampilkan satu level dalam bab.
    - Menggunakan xmlrpclib
 
 
-12. Dasar-dasar Python
+10. Dasar-dasar Python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    
    - Penulisan source code
