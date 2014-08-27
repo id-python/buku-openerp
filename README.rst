@@ -127,6 +127,14 @@ Laporan
   - Buku akan melalui proses penyuntingan, sebelum diserahkan
     ke penulis kesan singkat. 
 
+- Proses penyuntingan buku OpenERP telah selesai pada hari
+  Rabu, 27 Agustus 2014 malam.
+  
+  - Naskah buku sebelum layout telah dikirimkan ke semua
+    penulis kesan singkat.
+    
+  - Naskah buku memasuki proses layout.
+
 
 Daftar Isi
 ------------------------------------------------------------
@@ -134,11 +142,13 @@ Daftar Isi
 1. Memulai OpenERP
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   - Instalasi OpenERP
+   - Instalasi
    
-   - Konfigurasi Database dan OpenERP
+   - Bekerja dengan database
    
-   - Contoh modul dan data sample
+   - Settings dan technical features
+   
+   - Modul Sales Management
 
 
 2. Dasar-dasar Kustomisasi 
@@ -146,31 +156,39 @@ Daftar Isi
    
    - Developer Mode 
       
-   - Technical Feature
+   - Menambah dan menampilkan field
    
-   - Menambah field
+   - Menyembunyikan dan mengatur posisi field
    
-   - Menampilkan field
-   
-   - Menyembunyikan field dan mengatur posisi
-
    - Kelebihan dan kekurangan
 
 
 3. Dasar Pengembangan Modul OpenERP
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    
-   - Lingkungan pengembangan OpenERP
+   - Paket Python
    
-   - Struktur modul
+   - Manifest __openerp__.py
    
-   - Komposisi modul OpenERP 
+   - File-file dalam modul 
+   
+   - Lingkungan OpenERP
+   
+   - Lokasi Modul
+   
+   - Update daftar Modul
+   
+   - Mencari dari daftar Modul
      
-   - Contoh modul sederhana
+   - Langkah berikut
 
 
-4. Contoh kasus
+4. Kasus: Perusahaan Rental Kendaraan
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   - Pendahuluan
+   
+   - Langkah implementasi 
 
 
 5. Model pada OpenERP 
@@ -202,15 +220,15 @@ Daftar Isi
    
    - Method: unlink
    
-   - Program: menambah field
+   - Program 5-1: menambah field
    
-   - Program: readonly dan nilai default
+   - Program 5-2: readonly dan nilai default
    
-   - Program: constraint
+   - Program 5-3: constraint
    
-   - Program: field functional
+   - Program 5-4: field functional
    
-   - Program: method create/write
+   - Program 5-5: method create/write
    
    
 6. Dasar-dasar view
@@ -301,8 +319,10 @@ Daftar Isi
    - Menggunakan xmlrpclib
 
 
-10. Dasar-dasar Python
+10. Lampiran: Python Dasar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   
+   - Tentang dokumen ini
    
    - Penulisan source code
    
