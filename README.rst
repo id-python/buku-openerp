@@ -37,18 +37,11 @@ Penulis
 
 Kesan Singkat
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Ismail Sunni (http://github.com/ismailsunni)
-
 - Owo Sugiana (https://github.com/sugiana)
 
 - Steven Haryanto (https://github.com/sharyanto)
 
 - Zaki Akhmad (https://github.com/za)
-
-
-Layout
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Syaeful Bahri (https://github.com/passionfactory)
 
 
 Penerbit
@@ -134,6 +127,15 @@ Laporan
     penulis kesan singkat.
     
   - Naskah buku memasuki proses layout.
+  
+- Softcopy buku (dalam format ODT/PDF), dipublikasikan 
+  pada hari Sabtu, 27 September 2014. 
+  Layout siap cetak yang semula direncanakan, karena alasan
+  tertentu telah dibatalkan.
+  
+  - dasar-dasar-openerp_sisi-teknikal-dan-contoh-kasus.odt
+  
+  - dasar-dasar-openerp_sisi-teknikal-dan-contoh-kasus.pdf
 
 
 Daftar Isi
